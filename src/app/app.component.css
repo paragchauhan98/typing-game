@@ -1,0 +1,30 @@
+.container{
+    margin-top: 90px;
+    
+}
+.box{
+    background-color: black;
+}
+.title{
+    color: white;
+}
+.subtitle{
+    color: orange;
+    font-size: 50px;
+}
+span{
+    font-size: large;
+}
+.pending{
+    color: white;
+}
+
+.correct{
+    color: green;
+    font-weight: 600;
+}
+
+.incorrect{
+    color:red;
+    font-weight: 600;
+}
